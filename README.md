@@ -1,6 +1,5 @@
-# FIR-IIR-Audio-Filter
-## Noisy Audio Filtering Process
-### FIR e IIR Filters
+# Noisy Audio Filtering Process
+## FIR e IIR Filters
 
 In this project, a noisy audio filter is performed using FIR (Finite Impulse Response) and IIR (Infinite Impulse Response) filters.
 
